@@ -15,7 +15,7 @@ INSTALLATION
 ------------
 Click the github pages link provided below to access this project 
 
-
+https://tannerrhines.github.io/passwordGenerator/
 
 
 
